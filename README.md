@@ -1,2 +1,1 @@
-# TCSS590
-HW-s for NLP class
+Some assignments for NLP class
